@@ -1,8 +1,8 @@
-🧠 AI-Based Disk Scheduling Simulator
+ AI-Based Disk Scheduling Simulator
 An interactive web-based simulator that visualizes and compares traditional and AI-enhanced disk scheduling algorithms. Built with HTML, CSS, and JavaScript, this tool aids in understanding disk head movement, seek time optimization, and throughput analysis in operating systems.
 
 
-🚀 Features
+ Features
 Algorithm Support: Simulate various disk scheduling algorithms, including:
 
 FCFS (First-Come, First-Served)
@@ -19,28 +19,28 @@ History Log: Compare performance across different algorithms with a detailed his
 Configuration Management: Save and load simulation configurations using local storage.
 User Assistance: Integrated tooltips and help prompts for enhanced user experience.
 
-🎯 Objectives
+ Objectives
 Implement and compare traditional disk scheduling algorithms.
 Simulate AI-based approaches to optimize disk scheduling.
 Analyze performance improvements in terms of seek time, response time, and throughput.
 Provide a user-friendly simulator for visualization and testing.​
 
-🛠️ Technologies Used
+ Technologies Used
 Frontend: HTML5, CSS3, JavaScript 
 Visualization: Canvas API for rendering animations
 Storage: LocalStorage API for saving configurations​
 
 
-📈 Performance Metrics
+ Performance Metrics
 Seek Time: Total distance the disk head moves to service all requests.
 Response Time: Average time taken to respond to each request.
 Throughput: Number of requests processed per unit time.​
 
-🤖 AI-Based Scheduling (Simulated)
+ AI-Based Scheduling (Simulated)
 The AI-based algorithm in this simulator is currently simulated by sorting the disk requests to minimize seek time. Future enhancements may include integrating actual AI models, such as Reinforcement Learning or Genetic Algorithms, for dynamic and intelligent scheduling.​
 
 
-📌 Future Enhancements
+ Future Enhancements
 Integrate real AI algorithms for disk scheduling optimization.
 Enhance visualization with more detailed animations and charts.
 Implement backend support for handling larger datasets and complex simulations.
